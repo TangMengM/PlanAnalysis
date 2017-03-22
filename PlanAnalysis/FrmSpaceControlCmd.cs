@@ -32,7 +32,7 @@ namespace PlanAnalysis
 
         public string Caption
         {
-            get { return "城规/土规空间管制分区冲突分析"; }//城规/土规空间管制分区冲突分析
+            get { return "城规/土规空间管\r\n" + "制分区冲突分析"; }//城规/土规空间管制分区冲突分析
         }
 
         public string Category
